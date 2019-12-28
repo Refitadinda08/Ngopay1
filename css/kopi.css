@@ -1,0 +1,36 @@
+.ukuran {
+	float: right !important;
+	height: 50px !important;
+}
+.right {
+	margin-left: 550px !important;
+}
+
+.gambar {
+margin-top:-100px !important; 
+}
+
+.wrn {
+	color:white !important;
+}
+
+.gmb {
+
+	height: 595px !important;
+}
+
+
+.aa{
+    height: 300px;
+    width: 700px;
+    background-color: transparent;
+}
+.bb{
+    height: 300px;
+    width: 300px;
+}
+.cc{
+    height: 100px;
+    width: 500px;
+    background-color: brown;
+}

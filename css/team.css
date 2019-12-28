@@ -1,0 +1,32 @@
+.ukuran {
+	float: right !important;
+	height: 50px !important;
+}
+.right {
+	margin-left: 600px !important;
+}
+
+.gambar {
+margin-top:-100px !important; 
+}
+
+.wrn {
+	color:white !important;
+}
+
+.ketiga {
+    background-color: brown;
+    height: 100px;
+    width: 460px;
+}
+
+.empat{
+    background-color:rgb(212, 88, 88);
+}
+.hm{
+font-size: 60px;
+}
+.sil{
+    height: 225px;
+    width: 180px;
+}
